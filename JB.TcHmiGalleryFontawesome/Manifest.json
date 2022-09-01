@@ -1,0 +1,17 @@
+﻿{
+  "modules": [
+    {
+      "type": "Package",
+      "nugetId": "Beckhoff.TwinCAT.HMI.Framework"
+    }
+  ],
+  "provideMetadata": {
+    "toolbox": {
+      "JB_TcHmiGalleryFontawesome": {
+        "200": "JB_TcHmiGalleryFontawesome"
+      }
+    }
+  },
+  "$schema": ".hmiframework/Schema/Manifest.Schema.json",
+  "apiVersion": 1
+}
